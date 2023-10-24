@@ -18,8 +18,8 @@
 
 - ⚡ Fun fact **Fun Loving and always exited to learn new things**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/pritham_baswani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritham_baswani" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pritham-baswani-579497205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritham-baswani-579497205/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pbg_error3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pbg_error3" height="30" width="40" /></a>
