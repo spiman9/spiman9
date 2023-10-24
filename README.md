@@ -42,3 +42,10 @@
 
 <h1 align = "center"> 📊 Streak Stats: </h1>
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiman9&" alt="spiman9" /></p>
+
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/spiman9/count.svg" />
+</p>
