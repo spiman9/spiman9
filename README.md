@@ -34,6 +34,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiman9&show_icons=true&locale=en&layout=compact" alt="spiman9" /></p>
 
+<h1 align = "center"> 📊 GitHub Stats: </h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiman9&show_icons=true&locale=en" alt="spiman9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiman9&" alt="spiman9" /></p>
