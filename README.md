@@ -51,5 +51,6 @@
 </p>
 
 <h1 align="center">✍️ Random Dev Quote</h1>
-<div>https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark</div>
+<p align = "center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="spiman9" /></p>
+
 
