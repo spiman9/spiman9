@@ -50,5 +50,6 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-spiman9" />
 </p>
 
-<h1>### ✍️ Random Dev Quote</h1>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<h1 align="center">✍️ Random Dev Quote</h1>
+<div>https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark</div>
+
